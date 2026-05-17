@@ -20,9 +20,6 @@ Regularization is also implemented from scratch:
 
 ```
 
-
----
-
 ## 📊 Dataset
 
 The dataset (`real_estate_S.xlsx`) contains property listings with the following features:
